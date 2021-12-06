@@ -4,6 +4,8 @@
 
 A browser-based Tic Tac Toe game coded in JavaScript, HTML and CSS.
 
+This is a link to [Google](https://google.com).
+
 ## Planning Process
 
 ### User Stories
@@ -55,3 +57,13 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML and CSS.
 - As a user, I want cosmetic options for different styles of board.
 - As a user, I want to be able to play different forms of the game, such as 3-dimensional Tic-Tac-Toe
 - As a user, I want the game to have a global match-making system so that I can play against other users that are similarly-ranked
+
+### Wireframes
+
+#### Main View
+
+![Tic tac toe initial screen](./assets/wireframe-main.png)
+
+#### About Modal
+
+![Tic tac toe about modal](assets/wireframe-about.png)
