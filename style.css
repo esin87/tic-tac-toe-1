@@ -24,6 +24,8 @@ body {
 
 .box {
 	padding: 16%;
+	/* height: 100px;
+	flex-basis: 30%; */
 	background-size: cover;
 	background-position: center;
 	/* Remove double borders: https://stackoverflow.com/questions/37231144/how-can-i-make-a-3x3-grid-box-that-contains-9-input-textboxes-without-double-bor/37231694 */
