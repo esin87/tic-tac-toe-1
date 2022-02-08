@@ -6,6 +6,11 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML and CSS.
 
 This is a link to [Google](https://google.com).
 
+![Alt text](https://user-images.githubusercontent.com/53010153/153038301-93ac6408-2a32-4bdf-8e3a-2ac1f15a6d48.png)
+
+
+<img width="804" alt="Screen Shot 2022-01-30 at 4 21 39 PM" src="https://user-images.githubusercontent.com/53010153/153038301-93ac6408-2a32-4bdf-8e3a-2ac1f15a6d48.png">
+
 ## Planning Process
 
 ### User Stories
