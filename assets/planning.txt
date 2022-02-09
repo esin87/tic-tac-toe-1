@@ -1,0 +1,16 @@
+Pseudocode for Tic-Tac-Toe
+
+DECLARE constants for playerOne, playerTwo
+DECLARE state variables for currentPlayer, winState, moves 
+
+REFERENCE gameBoard, resetBtn
+
+ATTACH event listener to gameBoard (handleClick)
+
+What's going to happen when a click is registered on the gameBoard? 
+- Add element to the gameboard that represents the player's token 
+    - READ current player 
+    - UPDATE the DOM with the token 
+- Check if there is a winner 
+    - 
+- Switch to the next player 

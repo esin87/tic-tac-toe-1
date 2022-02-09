@@ -72,3 +72,8 @@ This is a link to [Google](https://google.com).
 #### About Modal
 
 ![Tic tac toe about modal](assets/wireframe-about.png)
+
+## Installation
+
+1. Clone down the repository to your machine.
+1. Open the `index.html` in the browser.
